@@ -44,6 +44,7 @@ HTML의 문법과 문서구조
         <p>안녕하세요 디자인베이스입니다. <br> //줄바꿈
             이번 강좌에서는 Html에 대해 배워보겠습니다.</p>
         
-        <a href="naver.com">네이버 바로가기</a> // 링크를 거는 태그
+        <a href="https://naver.com">네이버 바로가기</a> //링크를 거는 태그 네이버 바로가기
+        <a href="https://google.com" target="_blank">구글 바로가기</a>
     </body>
 </html>
