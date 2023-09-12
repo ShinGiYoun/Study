@@ -32,6 +32,25 @@ border : 태두리
 </body>
 </html>  
 
+3. 외부 스타일 시트
+외부에 있는 링크로 불러온 
+Head 태그 안에 <link rel="stylesheet" href="css/style.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>css 문법</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <a href = "http://www.google.com" target="_blank">새창 가기 </a>
+    
+</body>
+</html>  
+!!!!!!1교수님꼐 여쭈어 보기 잘 모르겠네요1!!!!!!!!
+
+
 
 
 
