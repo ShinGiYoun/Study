@@ -1,1 +1,44 @@
+1. 인라인 스타일 시트
+Htmal 태그 안에 Style로 넣는것
+
+2. 내부 스타일 시트
+Head 태그 안에 <style> </style>
+
+중요!
+내부 스타일 시트는 인라인 스타일 시트 보다 한꺼번에 디자인을 처리할수 있다.
+
+text-decoration : 디자인X
+border : 태두리
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>css 문법</title>
+    <style>
+        a {
+            font-size: 40px;
+            color: blue;
+            text-decoration: none;
+            border: 2px solid blue;
+             
+        }
+    </style>
+
+</head>
+<body>
+    <a href = "http://www.google.com" target="_blank">새창 가기 </a>
+    
+</body>
+</html>  
+
+
+
+
+
+
+
+
+
+
 
